@@ -95,7 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://theodoraldo.github.io/mobilefirst/)
+- [Live Demo Link](https://theodoraldo.github.io/mobile-first-deployment/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
