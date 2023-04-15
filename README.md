@@ -177,7 +177,7 @@ Example:
 
 - GitHub: [@githubhandle](https://github.com/Theodoraldo)
 - Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodore-asimeng-osei-80075125b/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodore-asimeng-osei-80075125b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
